@@ -1,6 +1,6 @@
-## Companion source code for "Automatically tag new AWS resources based on identity or role" blog post
+## Companion source code for "Create event-driven workflow with AWS Resource Groups lifecycle events" blog post
 
-Use the Python file & AWS IAM policy files located in the "source" directory as input to build an AWS Lambda function that tags matching AWS resources as they are created.  The "Automatically tag new AWS resources based on identity or role" blog post explains this resource tagging solution.
+This repository contains the CloudFormation templates, and Python codes related to the tuse cases mentioned in the blog post. The "Create event-driven workflow with AWS Resource Groups lifecycle events" blog post explains how to use the templates and codes.
 
 ## Security
 
